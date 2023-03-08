@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039643282608",
+    "project_id": "flutter-projects-cb336",
+    "storage_bucket": "flutter-projects-cb336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039643282608:android:5265449f0ad33d4c83ff75",
+        "android_client_info": {
+          "package_name": "com.fernandoherrera.push_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039643282608-g3s6vdkr1kk3s4fnpcgl56l2kv8copm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsmunOBKGf_lrBwEzBEEE6dgfIxHSZATY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039643282608-g3s6vdkr1kk3s4fnpcgl56l2kv8copm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
